@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://wallpaperaccess.com/full/1278235.jpg');
+    background-size: cover;
+    height: 100vh;
+    padding: 0px;
+}
+
+.style {
+    background-color: rgba(100, 100, 100, 0.5);
+    text-align: center;
+}
+
+.main-heading {
+    font-family: Caveat;
+    color: white;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: white;
+    font-family: Comic Sans MS;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    border-radius: 25px;
+    color: white;
+    font-family: Roboto;
+    background-color: red;
+    margin: 25px;
+}
+
+.btn-primary {
+    height: 36px;
+    width: 138px;
+    border-radius: 25px;
+    color: white;
+    font-family: Roboto;
+    background-color: red;
+    margin: 25px;
+}
+
+.food-list-bg-container {
+    background-color: grey;
+    height: 100vh;
+    background-size: cover;
+}
+
+.food-list-view-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 28px;
+    padding: 24px;
+}
+
+.food-list-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.food-list-card-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.food-list-card-description {
+    font-family: Roboto;
+    font-size: 13px;
+    color: grey;
+}
+
+.food-list-card-text-container {
+    padding: 16px;
+}
+
+.btn-warning {
+    height: 36px;
+    width: 138px;
+    border-radius: 25px;
+    color: white;
+    font-family: Roboto;
+    background-color: red;
+    margin: 25px;
+}
